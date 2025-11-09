@@ -66,8 +66,11 @@ plugins:
 author:
   name   : "AFCSociety"
   avatar : "/assets/images/logo.jpg"
-  bio    : "Hate hath no home here"
-  location  : "Troy, NY USA"
+  bio    : >-
+    A non-denominational, multi-faith organization committed to 
+    encouraging the principles of love, charity, and humility 
+    in American society & politics
+  location  : "Troy, NY, USA"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
