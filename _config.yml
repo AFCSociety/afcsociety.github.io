@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   in American society & politics
 twitter_username: AFCSociety
 github_username: AFCSociety
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
