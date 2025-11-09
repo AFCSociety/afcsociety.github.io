@@ -21,7 +21,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   A non-denominational, multi-faith organization committed to 
   encouraging the principles of love, charity, and humility 
-  in American society & politics
+  across American society & politics
 url: "https://afcsociety.org"
 repository: "afcsociety/afcsociety.github.io"
 teaser: /assets/images/logo.jpg
@@ -69,7 +69,7 @@ author:
   bio    : >-
     A non-denominational, multi-faith organization committed to 
     encouraging the principles of love, charity, and humility 
-    in American society & politics
+    across American society & politics
   location  : "Troy, NY, USA"
   links:
     - label: "Website"
