@@ -1,11 +1,13 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "About"
-    url: /about/
   - title: "Call to Action"
     url: /action/
+  - title: "About"
+    url: /about/
   - title: "Join"
     url: /get-involved/
+  - title: "Donate"
+    url: /donate/
   - title: "Contact"
     url: /contact/
