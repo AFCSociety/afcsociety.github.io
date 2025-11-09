@@ -22,5 +22,3 @@ defaults:
       share: true
       related: true
 ---
-
-# {{page.title}}
