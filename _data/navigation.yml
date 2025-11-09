@@ -1,6 +1,6 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  # - title: "Posts"
+    # url: /posts/
   - title: "Call to Action"
     url: /action/
   - title: "About"
