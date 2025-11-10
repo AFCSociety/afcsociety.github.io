@@ -12,6 +12,11 @@ defaults:
       author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Thank you for your interest in helping the AFCSociety!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+While we await our official desgnation as a 501(c)(3) non-profit organization, please consider donating to your [local food pantry][1], [homeless shelter][2], and/or [immigration legal services provider][3] today.
+Every dollar is precious to these organizations, and there is no better way to advance our cause of promoting a Christ-like society than to directly help those in need.
+
+[1]: https://www.feedingamerica.org/find-your-local-foodbank "Find your local foodbank"
+[2]: homelessshelterdirectory.org "Homeless Shelters Directory"
+[3]: https://www.immigrationadvocates.org/legaldirectory/ "National Immigration Legal Services Directory"
