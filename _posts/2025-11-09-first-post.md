@@ -32,17 +32,14 @@ Introducing ***Americans for a Christ-like Society*** -- a non-denominational, m
 >
 > — Mahatma Gandhi
 
-I first became interested in the question of a "Christ-like society" while watching White Christian Nationalism rear its ugly head live on television, shortly after the results of the 2016 federal elections.
-
-American Conservatives *love* to say that "we're a nation based on Christian values" (a spurious claim, handily refuted by the Founding Fathers themselves in the [Treaty of Tripoli][1]), yet they frequently fail to *enumerate* those values, leading me to the following questions:
-1. What does it mean to be a "Christian" in America today? and,
-1. What would "a nation based on Christian values" actually look like?
-
 ## Where we're headed
 
 > "There is no separation of church and state. It's a fabrication, it's a fiction, it's not in the constitution. It's made up by secular humanists."
 >
 > — Charlie Kirk, *The Charlie Kirk Show* [(July 6, 2022)][2]
+
+1. What does it mean to be a "Christian" in America today? and,
+1. What would "a nation based on Christian values" actually look like?
 
 I've struggled with both of those questions for almost a decade, and my ultimate conslusion scares me:
 **To be a Christian in America today**, according to Conservative rhetoric, you must:
