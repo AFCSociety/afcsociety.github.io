@@ -58,6 +58,8 @@ Any nation claiming to be based on Christian values ***must*** embody these teac
 
 ### Social goals
 
+...
+
 ### Legislative goals
 
 * Enhance & expand social welfare programs, such as SNAP, WIC, and Section 8/811/202 rental assistance.
