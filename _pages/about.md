@@ -69,7 +69,8 @@ Any nation claiming to be based on Christian values ***must*** embody these teac
 * Universal before- and after-school programs for public school children.
 * Universal, Single-payer healthcare
 
-How we intend to pay for it:
+#### How we intend to pay for them
+
 * Raise the Federal Minimum Wage to at *least* $15 per hour, and implement annual Cost of Living Adjustments (COLAs) based on Federal Reserve inflation estimates for the *upcoming* year.
 * Adjust Federal Income Tax brackets for a more progressive tax system, including:
   * lower brackets for low & middle-income earners,
