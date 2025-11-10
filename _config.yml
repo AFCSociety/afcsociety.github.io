@@ -72,9 +72,9 @@ author:
     across American society & politics
   location  : "Troy, NY, USA"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://afcsociety.org"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:afcsociety.org@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AFCSociety"
@@ -90,13 +90,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ACFSociety"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ACFSociety"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/ACFSociety"
 
 defaults:
   # _posts
