@@ -14,7 +14,6 @@ feature_row: # Board Members
     title: "Katie Armstrong"
     excerpt: >-
       Co-founder, Board Member, Agnostic
-    excerpt: 
   - image_path: /assets/images/bio-photo.jpg
     alt: "August Danowski - Headshot"
     title: "August Danowski"
@@ -32,10 +31,22 @@ defaults:
       author_profile: true
 ---
 
+## Core Principles
+
+> *for I was hungry, and you gave me food to eat; I was thirsty, and you gave me drink; I was a stranger, and you took me in;*
+> *naked, and you clothed me; I was sick, and you visited me; I was in prison, and you came to me.'*
+>
+> *Then the righteous will answer him, saying, 'Lord, when did we see you hungry, and feed you; or thirsty, and give you a drink?*
+> *When did we see you as a stranger, and take you in; or naked, and clothe you?*
+> *When did we see you sick, or in prison, and come to you?'*
+>
+> *The King will answer them, 'Most certainly I tell you, inasmuch as you did it to one of the least of these my brothers and sisters, you did it to me.*
+>
+> — Matthew 25:35-40
+
+Jesus commanded all who would follow him to welcome the foreigner, to comfort the afflicted, and to *materially* care for those in need.
+Any nation claiming to be based on Christian values ***must*** embody these teachings of Christ.
+
 ## Meet the Board
 
 {% include feature_row %}
-
-## Core Principles
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
