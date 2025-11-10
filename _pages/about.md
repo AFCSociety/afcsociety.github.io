@@ -9,7 +9,7 @@ feature_row: # Board Members
     title: "Joshua Pelton-Stroud"
     excerpt: >-
       Founder, President, Atheist
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/ka-headshot.jpg
     alt: "Katie Armstrong - Headshot"
     title: "Katie Armstrong"
     excerpt: >-
