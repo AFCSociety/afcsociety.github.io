@@ -64,11 +64,11 @@ Any nation claiming to be based on Christian values ***must*** embody these teac
 
 * Enhance & expand social welfare programs, such as SNAP, WIC, and Section 8/811/202 rental assistance.
 * Adjust Federal Poverty Guidelines for the reality of life in 2025 and beyond.
-* Implement:
-  * Universal childcare for working families, from infancy through pre-K.
-  * Universal free breakfast & lunch programs for public schools.
-  * Universal before- and after-school programs for public schools.
-  * Universal, Single-payer healthcare
+* Implement universal programs that benefit working families, including:
+  * Childcare programs, from infancy through pre-K.
+  * Free breakfast & lunch programs for public schools.
+  * Before- and after-school programs for public schools.
+  * Single-payer healthcare, with rebust mental health programs.
 
 #### How we intend to pay for them
 
