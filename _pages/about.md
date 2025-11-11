@@ -66,9 +66,9 @@ Any nation claiming to be based on Christian values ***must*** embody these teac
 * Adjust Federal Poverty Guidelines for the reality of life in 2025 and beyond.
 * Implement universal programs that benefit working families, including:
   * Childcare programs, from infancy through pre-K.
-  * Free breakfast & lunch programs for public schools.
-  * Before- and after-school programs for public schools.
-  * Single-payer healthcare, with rebust mental health programs.
+  * Free breakfast & lunch programs at public schools.
+  * Before- and after-school programs at public schools.
+  * Single-payer healthcare, with robust mental health programs.
 
 #### How we intend to pay for them
 
