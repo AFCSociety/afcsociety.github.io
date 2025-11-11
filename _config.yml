@@ -27,7 +27,7 @@ repository: "afcsociety/afcsociety.github.io"
 teaser: /assets/images/logo.jpg
 twitter_username: "AFCSocietyOrg"
 github_username: "AFCSociety"
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "air"
 search: true
 
 # Build settings
