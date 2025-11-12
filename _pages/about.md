@@ -63,6 +63,7 @@ Any nation claiming to be based on Christian values ***must*** embody these teac
 ### Legislative goals
 
 * Enhance & expand social welfare programs, such as SNAP, WIC, and Section 8/811/202 rental assistance.
+* Enhance & expand Social Security benefits, and walk back the full retirement age to 65.
 * Adjust Federal Poverty Guidelines for the reality of life in 2025 and beyond.
 * Implement universal programs that benefit working families, including:
   * Childcare programs, from infancy through pre-K.
@@ -73,6 +74,7 @@ Any nation claiming to be based on Christian values ***must*** embody these teac
 #### How we intend to pay for them
 
 * Raise the Federal Minimum Wage to at *least* $15 per hour, and implement annual Cost of Living Adjustments (COLAs) based on Federal Reserve inflation estimates for the *upcoming* year.
+* Remove the cap on payroll taxes for Social Security.
 * Revoke tax cuts that only benefit corporations and the ultra-wealthy.
 * Adjust Federal Income Tax brackets for a more progressive tax system, including:
   * lower brackets for low & middle-income earners,
