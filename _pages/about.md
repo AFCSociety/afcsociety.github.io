@@ -58,7 +58,8 @@ Any nation claiming to be based on Christian values ***must*** embody these teac
 
 ### Social goals
 
-...
+* Promote the principles of love, humility, and charity in all walks of life, and toward *all* people.
+* Expose Christian Nationalism for the *anti*-Christian ideology it is.
 
 ### Legislative goals
 
