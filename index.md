@@ -45,7 +45,7 @@ This means, *as a nation*, we must:
 - Oppose war and violence.
 
 Jesus did ***not*** say "unless they are trans", "unless they are gay", "unless they are undocumented", "unless they are Muslim", or "unless they are homeless".
-He said we are *all* deserving of love, compassion, and care "...on earth, as it is in Heaven." We believe that America can be the beginning of that Kingdom.
+Jesus taught that we are *all* deserving of love, compassion, and care "...on earth, as it is in Heaven." We believe that America can be the beginning of that Kingdom.
 
 ## Meet the Board
 
