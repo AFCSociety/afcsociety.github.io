@@ -21,6 +21,8 @@ feature_row: # Board Members
       Co-founder, Treasurer, Agnostic
 ---
 
+We are a non-denominational, multi-faith organization committed to encouraging the principles of love, charity, and humility across American society and politics.
+
 ## Our Core Beliefs
 
 > *'You shall love your neighbor as yourself.'*
