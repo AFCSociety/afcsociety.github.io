@@ -21,7 +21,7 @@ feature_row: # Board Members
       Co-founder, Treasurer, Agnostic
 ---
 
-We are a non-denominational, multi-faith organization committed to encouraging the principles of love, charity, and humility across American society and politics.
+***Americans for a Christ-like Society*** is a non-denominational, multi-faith organization committed to encouraging the principles of love, charity, and humility across American society and politics.
 
 We proudly welcome all who wish to see a little more Christ in American Christianity.
 
@@ -42,6 +42,9 @@ This means, *as a nation*, we must:
 - Provide for the poor;
 - Welcome the immigrant; and,
 - Oppose war and violence.
+
+Jesus did ***not*** say "unless they are trans", "unless they are gay", "unless they are undocumented", "unless they are Muslim", or "unless they are homeless".
+He said we are *all* deserving of love, compassion, and care "on earth, as it is in Heaven." We believe that America can be the beginning of that Kingdom.
 
 ## Meet the Board
 
