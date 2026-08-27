@@ -23,6 +23,8 @@ feature_row: # Board Members
 
 We are a non-denominational, multi-faith organization committed to encouraging the principles of love, charity, and humility across American society and politics.
 
+We proudly welcome all who wish to see a little more Christ in American Christianity.
+
 ## Our Core Beliefs
 
 > *'You shall love your neighbor as yourself.'*
