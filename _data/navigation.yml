@@ -3,10 +3,8 @@ main:
     # url: /posts/
   - title: "About"
     url: /
-  - title: "Call to Action"
+  - title: "Take Action"
     url: /action/
-  - title: "Join"
-    url: /join/
   - title: "Donate"
     url: /donate/
   - title: "Contact"
