@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About AFCSociety"
+title: "About Us"
 author_profile: true
 
 feature_row: # Board Members
