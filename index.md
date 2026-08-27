@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About"
+title: "About AFCSociety"
 author_profile: true
 
 feature_row: # Board Members
@@ -33,7 +33,7 @@ We proudly welcome all who wish to see a little more Christ in American Christia
 > *'Truly I tell you, just as you did it to one of the least of these brothers and sisters of mine, you did it to me.'*
 > — [Matthew 25:40](https://www.biblegateway.com/passage/?search=matthew%2025%3A40&version=NRSVUE)
 
-Christ commanded us to love each other and to care for the poor and the marginalized. Any nation that purports to be Christian must be judged by its adherence to these commands. 
+Jesus commanded us to love each other and to care for the poor and the marginalized. Any nation that purports to be Christian must be judged by its adherence to these commands. 
 
 This means, *as a nation*, we must:
 
