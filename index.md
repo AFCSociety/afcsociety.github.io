@@ -40,7 +40,8 @@ This means, *as a nation*, we must:
 - Feed the hungry;
 - Care for the sick;
 - Provide for the poor;
-- Welcome the immigrant; and,
+- Welcome the immigrant;
+- Uplift the marginalized; and,
 - Oppose war and violence.
 
 Jesus did ***not*** say "unless they are trans", "unless they are gay", "unless they are undocumented", "unless they are Muslim", or "unless they are homeless".
